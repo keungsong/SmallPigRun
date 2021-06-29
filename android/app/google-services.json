@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306145208830",
+    "project_id": "hosting-demo-5d397",
+    "storage_bucket": "hosting-demo-5d397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306145208830:android:c4a23542b83d40621378af",
+        "android_client_info": {
+          "package_name": "com.example.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306145208830-a4cfm8fk9h4cl796qch4utlsmv5r3lp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TTnYTrqUgKegGYsY2eXJmVyZ4sfSBb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306145208830-a4cfm8fk9h4cl796qch4utlsmv5r3lp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
